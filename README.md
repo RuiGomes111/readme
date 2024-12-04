@@ -1,4 +1,4 @@
-Hello! I'm Rui Gomes, a junior web developer passionate about technology and innovation. I'm looking for an opportunity where I can grow as a professional and contribute to the development of impactful web solutions.
+ ## Hello! I'm Rui Gomes, a junior web developer passionate about technology and innovation. I'm looking for an opportunity where I can grow as a professional and contribute to the development of impactful web solutions.
 
 
 # Tools & Technologies
